@@ -1,0 +1,22 @@
+body{
+    background-image: url(../image/canvas-texture-paper.jpg);
+}
+table {
+    border-collapse: collapse;
+    width: 50%;
+}
+
+th, td {
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(odd){background-color: #f2f2f2}
+
+th {
+    background-color: #4CAF50;
+    color: white;
+}
+.boxinput{
+
+}
